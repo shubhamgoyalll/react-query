@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Interview 1",
+      "body": "About React"
+    },
+    {
+      "id": 2,
+      "title": "Interview 2",
+      "body": "About JS"
+    },
+    {
+      "id": 3,
+      "title": "Interview 3",
+      "body": "About Tailwind"
+    }
+  ]
+}
